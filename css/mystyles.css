@@ -1,0 +1,36 @@
+body{
+    font-family: 'Open Sans', sans-serif;  
+}
+.section {
+  text-align:center;
+  font-size: 3em;
+  color: white;
+}
+.section img{
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  margin: 0 auto;
+  display: block;
+  box-shadow: 0 10px 30px rgb(0 0 0 / 15%), 0 1px 4px rgb(0 0 0 / 15%), 0 1px 0 rgb(0 0 0 / 7%);
+}
+#fp-nav ul li a span, 
+.fp-slidesNav ul li a span{
+  background: white;
+}
+h1{
+  margin: 0 0 20px 0;
+}
+@media screen and (max-width: 700px) {
+  h1{
+    font-size: 2em;
+  }
+  .section{
+    font-size: 1.5em;
+  }
+  .section img{
+    width: 100px;
+    height: 100px;
+  }
+}
