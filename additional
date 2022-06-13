@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Sources</title>
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="/styles/mystyles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
+            <div class="container px-4 px-lg-5">
+                <a class="navbar-brand" href="https://helenfostersnow.org/" target="_blank" rel="noopener noreferrer">Learn More</a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    Menu
+                    <i class="fas fa-bars"></i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+                        <li class="nav-item"><a class="nav-link" href="index.html">Timeline</a></li>
+                        <li class="nav-item"><a class="nav-link" href="index.html">Map</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#!">Sources</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+        
+        <!-- Works Cited-->
+        <section class="about-section text-center" id="Citations">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5 justify-content-center">
+                    <div class="col-lg-8">
+                        <h2 class="text-white mb-4">WORKS CITED</h2>
+                        <p class="text-white-50" style="text-align:left;">
+                            <ul>
+                                <li><div class="small text-black-50" style="text-align:left;"><a href="https://apps.lib.byu.edu/lms-tools/link/?type=guide&link=https://reserve.lib.byu.edu/docs/36150/&source=IAS.397R." target="_blank" rel="noopener noreferrer"> <i> My China Years</i>, Helen Foster Snow 1984</a></div></li>
+                                <li><div class="small text-black-50" style="text-align:left;"><a href="https://helenfostersnow.org/home-1" target="_blank" rel="noopener noreferrer"> Helen Foster Snow Foundation</a></div></li>
+                                <li><div class="small text-black-50" style="text-align:left;"><a href="https://archives.lib.byu.edu/repositories/14/resources/1540" target="_blank" rel="noopener noreferrer"> <i>Helen Foster Snow papers</i>, MSS 2219. L. Tom Perry Special Collections.</a></div></li>
+                                <li><div class="small text-black-50" style="text-align:left;"><a href="https://kennedy.byu.edu/helen-foster-snow/" target="_blank" rel="noopener noreferrer"> "HELEN FOSTER SNOW - ENIGMATIC HEROINE", J. Lee Simons, <i>BYU Kennedy Center</i></a></div></li>
+                                <li><div class="small text-black-50" style="text-align:left;"><a href="https://global.chinadaily.com.cn/a/201912/14/WS5df3ecaca310cf3e3557e146.html" target="_blank" rel="noopener noreferrer"> "Up close with Helen", ZHAO XU and ZHANG YUAN, <i>China Daily Global</i></a></div></li>
+                                <li><div class="small text-black-50" style="text-align:left;"><a href="http://chinatoday.sinoperi.com/en200712/611151.jhtml" target="_blank" rel="noopener noreferrer"> "In Memory of Helen Foster Snow", CHEN XIUXIA, <i>China Today</i></a></div></li>
+                            </ul>
+                        </p>
+                    </div>
+                </div>
+                <img class="img-fluid" src="assets/img/HFS Intro Image.png" alt="..." />
+            </div>
+        </section>
+         <section class="contact-section bg-black">
+            <div class="container px-4 px-lg-5">
+                <div class="row gx-4 gx-lg-5">
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-map-marked-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">BYU Harold B. Lee Library</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50"><a href="https://www.google.com/search?q=harold+b+lee+library&rlz=1C5CHFA_enUS976US976&oq=harold+b+lee+library&aqs=chrome..69i57j46i175i199i512j0i512l5j69i60.4916j0j1&sourceid=chrome&ie=UTF-8#" >P.O. Box 26800, Provo, UT 84602-6800</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-envelope text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Email</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50"><a href="#!">support@lib.byu.edu</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 mb-3 mb-md-0">
+                        <div class="card py-4 h-100">
+                            <div class="card-body text-center">
+                                <i class="fas fa-mobile-alt text-primary mb-2"></i>
+                                <h4 class="text-uppercase m-0">Phone</h4>
+                                <hr class="my-4 mx-auto" />
+                                <div class="small text-black-50">+1 (801) 422-6061</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="social d-flex justify-content-center">
+                    <a class="mx-2" href="https://twitter.com/byu_hbll" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a>
+                    <a class="mx-2" href="https://www.facebook.com/byuhbll" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a>
+                    <a class="mx-2" href="https://archives.lib.byu.edu/repositories/14/resources/1540" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i></a></a>
+            </div>
+            </div>
+        </section>
+        <!-- Footer-->
+        <footer class="footer bg-black small text-center text-white-50"><div class="container px-4 px-lg-5">Copyright &copy; Preston Pond 2022 <br/> Made using Bootstrap Open-Source Code</div></footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <!-- * *                               SB Forms JS                               * *-->
+        <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
+        <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
+        <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+    </body>
+</html>
